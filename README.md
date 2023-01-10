@@ -12,6 +12,6 @@ Es importante mencionar que esta toolbox funciona para rostros con cubrebocas y 
 
 ## Expresiones de Gratitud 😊
 * Da las gracias públicamente 😊
-* Dona con Solana a esta dirección: `BGADeDwPhghunkZevrT1rxBfRTYFDQwhRABUWgX8EWGD`
+* Dona con Solana a esta dirección: `GkEAGdnGz7w9KVw1ysd4XyGwMaqGVzoR6yeHhGHD4x7V`
 * Dona con ETH a esta dirección: `0x879e34c7Ae54A6A3936d7eD9A1c3E81Ae52C43D6`
 
